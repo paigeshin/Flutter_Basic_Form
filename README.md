@@ -5,11 +5,11 @@
 
 # Blueprints
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a355d8df-cf96-45b9-9dc1-37f206bce24b/Untitled.png)
+![image1](./readme/image1.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bcba577-6b90-496b-a2a7-fb896c3663e5/Untitled.png)
+![image1](./readme/image2.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ae17f899-7569-4686-8d32-8f9f6d305eea/Untitled.png)
+![image1](./readme/image3.png)
 
 # Create Global Key and pass it to children widgets
 
